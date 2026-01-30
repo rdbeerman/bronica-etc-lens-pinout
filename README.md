@@ -1,5 +1,5 @@
 # Bronica ETR Lens Pinout
-This document serves to explain he pinout and electrical working of Bronica ETR lenses, special thanks to Oscar from Panomicron.
+This document serves to explain he pinout and electrical working of Bronica ETR lenses, special thanks to Oscar from Panomicron. The pinout on Bronica SQ Lenses may or may not be similar, but I've not confirmed this.
 
 All Bronica ETR Lenses have 6 pins at the top of the lens which connect to the body of the camera. These have the following functions:
 
