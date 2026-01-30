@@ -1,5 +1,5 @@
 # Bronica ETR Lens Pinout
-This document serves to explain he pinout and electrical working of Bronica ETR lenses, special thanks to Oscar from Panomicron. The pinout on Bronica SQ Lenses may or may not be similar, but I've not confirmed this.
+This document serves to explain he pinout and electrical working of Bronica ETR lenses, special thanks to Oscar from Panomicron. The pinout on Bronica SQ Lenses may or may not be similar, but I've not confirmed this. I started looking into this as part of my project for making a 35mm panoramic SLR, the beerPAN. Progress of this project can be followed on [this instagram](https://www.instagram.com/beerpancamera). I did write some code for a ESP32 board that uses the information below to control the shutter speed for these lenses as part of this project, currently the code for that isn't optimal for sharing hence it not being included in this repo, but with the following information it should be fairly easy to achieve, of course if anyone would like to submit a example script, feel free to contribute.
 
 All Bronica ETR Lenses have 6 pins at the top of the lens which connect to the body of the camera. These have the following functions:
 
