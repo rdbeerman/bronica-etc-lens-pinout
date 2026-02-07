@@ -1,5 +1,3 @@
 title: Bronica ETR Lens Pinout
 description: Pinout and electrical documentation for Bronica ETR lenses
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman
